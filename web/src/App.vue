@@ -11,7 +11,9 @@ import 'bootstrap/dist/js/bootstrap.js';
 export default {
   components: {
     NavBar,
-}
+  },
+  setup() {
+  }
 }
 </script>
 
